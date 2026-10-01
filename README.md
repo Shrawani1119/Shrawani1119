@@ -1,6 +1,15 @@
 # Hi, I'm Shrawani 👋
 
-📊 Data • SQL • Python enthusiast  
-💻 Learning Java basics
+💻 Computer Science Student | 📊 Exploring Data Engineering & Analytics
 
-I use this space to share my SQL practice, Python data analysis, and small projects.
+I’m building my skills in **SQL, Python, Data Analysis, and Data Engineering** through hands-on projects and continuous learning.
+
+### 🔧 What you'll find here
+
+* 🗄️ SQL Projects & Practice
+* 🐍 Python & Data Analysis
+* 📊 Data Projects
+* ☁️ Data Engineering Learning
+* 🚀 Mini Projects & Practical Work
+
+I’m currently focused on strengthening my technical skills and gaining **hands-on industry experience** in Data Engineering and Analytics.
